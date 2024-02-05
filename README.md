@@ -1,2 +1,3 @@
-# Dashbaord_tableau
-Dashboards Sample
+# Dashboards Sample
+This is a sample work of Tableau.
+
